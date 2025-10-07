@@ -1,7 +1,7 @@
 # LinAlgPTE
-Az összes lináris algebra tárgyam anyaga a PTE TTK-n. / My all Linear Algebra Lecture at UP.
+Az összes lináris algebra tárgyam anyaga a PTE TTK-n. / My all Linear Algebra Lectures at UP.
 
-A fő branchban megtalálható az összes jegyzet, minden tárgyhoz, külön brancherban vannak az egyes tárgyak diái. You can find all notes and books in the main brach. In each brach you can find the slides of all my lectures and practices:
+A fő branchban megtalálható az összes jegyzet, minden tárgyhoz, külön branchban vannak az egyes tárgyak diái. You can find all notes and books in the main branch. In each branch you can find the slides of all my lectures and practices:
 
 Elemi lineáris algebra 
 
@@ -26,4 +26,4 @@ https://youtube.com/playlist?list=PL5VzM0cemK261rOGo1GLVI62ZeQ0HKV4u&si=iuiVxmUV
 
 https://youtube.com/playlist?list=PL5VzM0cemK24I03dR0Ax9QRnB5AWZhJF5&si=V04Yy_HlFfB6bgEv
 
-Felhasználás esetén, kérem, hogy hivatkozzanak rám. / Cite this site and refer to me if you use these matterials. 
+Felhasználás esetén, kérem, hogy hivatkozzanak rám. / Please cite this site and refer to me if you use these materials. 
